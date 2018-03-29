@@ -72,5 +72,7 @@ int main(int argc, char *argv[])
 
     a.exec();
 
+    /*消息撤回*/
+
     return 0;
 }
